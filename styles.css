@@ -1,0 +1,156 @@
+/* font-family: 'Amatic SC', cursive;
+font-family: 'Teko', sans-serif;
+font-family: 'Slabo 27px', serif; */
+body {
+  font-family: 'Slabo 27px', serif;
+  text-align: center;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Kosugi Maru', sans-serif;
+}
+
+/* Navbar */
+.navbar-brand {
+  font-family: 'Amatic', cursive;
+}
+
+.navbar-collapse {
+  font-family: 'Kosugi Maru', sans-serif;
+  font-size: 0.9rem;
+}
+
+/* title */
+#title {
+  background-color: #333940;
+  color: #fff;
+  padding: 1% 2% 5%;
+}
+
+#title p{
+  font-size: 1.5rem;
+  font-weight: 300;
+  font-family: 'Kosugi Maru', sans-serif;
+}
+
+.title-row {
+  margin-top: 3%;
+}
+
+.title-backgroung-img {
+  width: 100%;
+  position: absolute;
+  right: 3%;
+}
+
+.title-img {
+  border-radius: 100%;
+  width: 75%;
+}
+
+#title h1 {
+  text-align: center;
+  font-family: 'Amatic', cursive;
+  font-weight: 700;
+  font-size: 2.5rem;
+  margin-top: 60%;
+  margin-left: 5%;
+}
+
+/* features */
+#features {
+  position: relative;
+  background-color: #fff;
+  padding: 5% 10%;
+  line-height: 2;
+}
+
+.features-description {
+  margin-top: 2%;
+}
+
+/* samples */
+#samples {
+  background-color: #323232;
+  color: #fff;
+  padding: 5%;
+}
+
+.sample-img1 {
+  width: 40%;
+  margin: 10% 10% 2% 10%;
+}
+
+.sample-img2 {
+  width: 65%;
+  margin: 10% 10% 2% 10%;
+}
+
+.sample-img3 {
+  width: 35%;
+  margin: 10% 10% 2% 10%;
+}
+
+.sample-description {
+  font-size: 0.9rem;
+}
+
+.item {
+  margin-bottom: 8%;
+}
+
+/* Pricing */
+#Pricing {
+  padding: 5% 15%;
+ }
+
+ .card-text {
+   line-height: 2;
+ }
+
+.card-title {
+  font-weight: 700;
+}
+ .sign-up-btn {
+   background-color: #333940;
+ }
+
+ .sign-up-btn:hover {
+   background-color: #fff;
+   color: #333940;
+ }
+
+/* call to action */
+#cta {
+  background-color: #596268;
+  color: #fff;
+  padding: 5% 5%;
+}
+
+#cta h3 {
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+/* footer */
+#footer {
+  padding: 3% 10%;
+}
+
+.social-icon {
+  margin: 0 2% 5%;
+}
+
+.enveloppe {
+  color: #fff;
+}
+
+.enveloppe:hover {
+  color: #333940;
+}
+
+.insta {
+  color: #cc4a66;
+}
+
+.insta:hover {
+  color: #ab34b0;
+}
